@@ -1,0 +1,13 @@
+print("RAKESH ACHANTA")
+print('HELLO WORLD')
+print(10)
+print(10.25)
+print(10,20,30,40,50)
+print(10,20,30,40,50,60,sep=';')
+print('NAME-RAKESH\n', 'AGE-20\n', 'ROLL NUMBER-19A91A0358\n', 'BRANCH-MECHANICAL\n', 'COLLEGE-ADITYA ENGINEERING COLLEGE\n', 'CGPA-7.71')
+print("RAKESH", end='+')
+print('ACHANTA',end='=')
+print('Okay')
+print('NAME-RAKESH', 'AGE-20', 'ROLL NUMBER-19A91A0358', 'BRANCH-MECHANICAL', 'COLLEGE-ADITYA ENGINEERING COLLEGE', 'CGPA-7.71',sep='\n')
+
+
