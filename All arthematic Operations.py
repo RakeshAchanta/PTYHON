@@ -1,0 +1,11 @@
+num1=int(input("Enter First Number:"))
+num2=int(input("Enter Second Number:"))
+summ=num1+num2
+diff=num1-num2
+mul=num1*num2
+div=num1/num2
+floordiv=num1//num2
+modulodiv=num1%num2
+power=num1**num2
+total=summ+diff+mul+div+floordiv+modulodiv+power
+print(summ,diff,mul,div,floordiv,modulodiv,power,total,sep='\n')
